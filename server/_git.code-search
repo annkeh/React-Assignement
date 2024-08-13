@@ -1,0 +1,44 @@
+# Query: .git
+# ContextLines: 1
+
+16 results - 2 files
+
+client/.gitignore:
+  1: # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+  2  
+
+client/README.md:
+  19  Launches the test runner in the interactive watch mode.\
+  20: See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  21  
+
+  29  
+  30: See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  31  
+
+  43  
+  44: You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  45  
+
+  49  
+  50: This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  51  
+
+  53  
+  54: This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  55  
+
+  57  
+  58: This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  59  
+
+  61  
+  62: This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+  63  
+
+  65  
+  66: This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+  67  
+
+  69  
+  70: This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
