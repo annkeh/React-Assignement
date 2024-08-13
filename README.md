@@ -31,7 +31,7 @@ This project is a simple To-Do application built with React for the front-end an
 Start the back-end server:
 - cd server
 - npm start
-The server will run on http://localhost:5000 by default.
+The server will run on http://localhost:5001 by default.
 
 **Start the front-end application:**
 cd ../client
